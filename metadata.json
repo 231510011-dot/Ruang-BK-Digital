@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ruang BK SMKN 2 Godean",
+  "description": "Media Layanan Bimbingan dan Konseling Berbasis Web untuk Siswa dan Guru BK SMKN 2 Godean",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
